@@ -1,0 +1,6 @@
+{
+  "name": "KŪZA — Contemporary Fashion",
+  "description": "KŪZA — FORM NEEDS SPACE. Prêt-à-porter contemporain pensé et confectionné en Tunisie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
